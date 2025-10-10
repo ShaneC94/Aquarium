@@ -36,11 +36,11 @@ If you prefer to run the standalone version instead of using Processing:
 4. Open the extracted folder — it should contain:
 ```bash
 VirtualAquarium/
-├─ data/
-├─ java/
-├─ lib/
-├─ source/
-└─ VirtualAquarium.exe
+   ├─ data/
+   ├─ java/
+   ├─ lib/
+   ├─ source/
+   └─ VirtualAquarium.exe
 ```
 5. Double-click **`VirtualAquarium.exe`** (or just **`VirtualAquarium`** if file extensions are hidden).  
 6. The aquarium will launch in its own window — no Processing IDE required.
