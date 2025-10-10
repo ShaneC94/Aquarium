@@ -89,7 +89,6 @@ Also showcases the **day/night transition** and **aquarium reset** functionality
 
 https://github.com/user-attachments/assets/c5d97e26-122a-495a-bd3a-14d346edb189
 
-
 ---
 
 ## Implementation Details
