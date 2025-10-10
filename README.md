@@ -68,6 +68,9 @@ It includes all necessary libraries and a lightweight Java runtime.
 **Aquarium at program start:**  
 <img width="1841" height="889" alt="virtual_aquarium_screenshot_start" src="https://github.com/user-attachments/assets/e7bf4abe-55f3-4797-af53-12d363b9c641" />
 
+**Aquarium switched to night-mode:**
+<img width="1843" height="886" alt="virtual_aquarium_night_mode" src="https://github.com/user-attachments/assets/c41ccb56-4039-481d-a096-90ecb11b4cc1" />
+
 **Fish with low constitution** take on a duller color and move slower:  
 <img width="1838" height="890" alt="virtual_aquarium_screenshot_low_constitution" src="https://github.com/user-attachments/assets/b31ac10d-b6ed-4ac6-9b87-6639c6abc58c" />
 
