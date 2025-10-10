@@ -80,6 +80,15 @@ It includes all necessary libraries and a lightweight Java runtime.
 **Fish exhibiting food-seeking behavior:**  
 <img width="1845" height="890" alt="virtual_aquarium_screenshot_food_seeking_behavior" src="https://github.com/user-attachments/assets/55a75508-2005-4683-a80a-9267bfbbf6c5" />
 
+---
+
+## Video Demo
+
+Demonstrates **predator avoidance**, **random wandering**, **food-seeking behavior**, and **depth-sorting**.  
+Also showcases the **day/night transition** and **aquarium reset** functionality.
+
+https://github.com/user-attachments/assets/c5d97e26-122a-495a-bd3a-14d346edb189
+
 
 ---
 
