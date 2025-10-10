@@ -118,5 +118,3 @@ Ontario Tech University
 *SOFE 4640U – User Experience Design (Fall 2025)*
 
 ---
-
-© 2025 Shane Currie — For educational and personal use only.
