@@ -26,12 +26,12 @@ It simulates a realistic underwater environment featuring animated fish, ambient
 
 ---
 
-## How to Run (Executable Build)
+## How to Run (Executable Windows Build)
 
 If you prefer to run the standalone version instead of using Processing:
 
 1. Go to the **[Releases](../../releases)** section of this repository.  
-2. Download the file named **`Virtual_Aquarium_Windows.zip`** (or the latest version available).  
+2. Download the file named **`Virtual_Aquarium_Windows.zip`**.  
 3. Extract the zip file to any folder on your computer.  
 4. Open the extracted folder — it should contain:
 ```bash
