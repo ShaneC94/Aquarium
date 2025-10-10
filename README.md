@@ -10,9 +10,9 @@ It simulates a realistic underwater environment featuring animated fish, ambient
 - **15+ animated fish** that swim independently using random movement and wall avoidance  
 - **Click to drop food** that fish actively chase  
 - **Predator mode:** fish avoid the mouse cursor to simulate a predator effect  
-- **Day/Night toggle** with smooth lighting and background transitions  
+- **Day/Night toggle** with smooth background transitions  
 - **Ambient underwater soundscape** using the Processing Sound library  
-- **Environmental animations:** bubbles, swaying seaweed, coral base, and dynamic background lighting  
+- **Environmental animations:** bubbles, swaying seaweed, and coral base  
 - **Heads-Up Display (HUD)** showing live stats, controls, and current aquarium status  
 
 ---
