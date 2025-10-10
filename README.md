@@ -110,11 +110,3 @@ All images and sound assets used in this project are **free for personal and edu
 They are included under non-commercial licenses and used solely for academic demonstration purposes within this course project.
 
 ---
-
-## Author
-
-**Shane Currie**  
-Ontario Tech University  
-*SOFE 4640U – User Experience Design (Fall 2025)*
-
----
