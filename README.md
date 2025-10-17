@@ -1,6 +1,6 @@
 # Virtual Aquarium Project
 
-This project is an **interactive virtual aquarium** built in **Processing 4.x**.  
+This project is an **interactive virtual aquarium** built in **Processing 4**.  
 It simulates a realistic underwater environment featuring animated fish, ambient sound, and responsive user interactions.
 
 ---
