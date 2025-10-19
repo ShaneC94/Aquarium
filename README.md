@@ -19,7 +19,7 @@ It simulates a realistic underwater environment featuring animated fish, ambient
 
 ## How to Run
 
-1. Open the **Processing IDE (version 4.x)**  
+1. Open the **Processing IDE (version 4)**  
 2. Load the `VirtualAquarium.pde` file  
 3. Ensure the `/data` folder (with images and sound files) is in the same directory as your `.pde` files  
 4. Click **Run (▶)** to start the aquarium simulation  
@@ -46,7 +46,7 @@ VirtualAquarium/
 6. The aquarium will launch in its own window — no Processing IDE required.
 
 **Note:**  
-This version was exported using Processing 4.x for Windows (64-bit).  
+This version was exported using Processing 4 for Windows (64-bit).  
 It includes all necessary libraries and a lightweight Java runtime.
 
 ---
@@ -96,7 +96,7 @@ https://github.com/user-attachments/assets/c5d97e26-122a-495a-bd3a-14d346edb189
 
 ## Implementation Details
 
-- Built using **Processing 4.x** and the **Processing Sound library**  
+- Built using **Processing 4** and the **Processing Sound library**  
 - Modular, object-oriented design with multiple `.pde` classes (`Fish`, `Food`, `Bubble`, `Seaweed`, `CoralBase`)  
 - Uses **ArrayList** structures for dynamic fish and object management  
 - Demonstrates **animation loops, event handling, and simple AI behavior**  
